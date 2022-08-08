@@ -4,15 +4,11 @@ In this course, you'll add an in-app subscription to an app (provided for you) a
 
 The backend service (also provided for you) verifies that the purchases are made in Firebase using Cloud Functions and Firestore. These Firebase products are used to make the process easier, and in your production app, you can use this backend service.
 
-COURSE LINK - https://www.udemy.com/course/learn-flutter-in-app-subscriptions-form-scratch/?referralCode=F70A0BD830C1E8FA3299
-
 --------------------------------------------------------------
+⭐️ Learn Flutter In App Subscription [2022] ⭐️ 
 
-UPTO 50% OFF (NEW USERS) FOR A LIMITED TIME
+UDEMY COURSE - 50% OFF OR MORE
 
-CODE - NEW_USER_DISCOUNT
-
-LINK - https://www.udemy.com/course/learn-flutter-in-app-subscriptions-form-scratch/?couponCode=NEW_USER_DISCOUNT
-
+https://www.udemy.com/course/learn-flutter-in-app-subscriptions-form-scratch/?couponCode=38278B3207EBFB397EFD
 --------------------------------------------------------------
 
