@@ -9,6 +9,6 @@ The backend service (also provided for you) verifies that the purchases are made
 
 UDEMY COURSE - 50% OFF OR MORE
 
-https://www.udemy.com/course/learn-flutter-in-app-subscriptions-form-scratch/?couponCode=38278B3207EBFB397EFD
+LINK - https://www.udemy.com/course/learn-flutter-in-app-subscriptions-form-scratch/?couponCode=38278B3207EBFB397EFD
 --------------------------------------------------------------
 
